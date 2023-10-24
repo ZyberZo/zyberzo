@@ -13,6 +13,8 @@
 <h2>📃Certifications</h2>
 
   - [Coming](https://github.com/ZyberZo/zyberzo)
+
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
  
 
 
