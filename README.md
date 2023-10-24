@@ -14,7 +14,7 @@
 
   - [Coming](https://github.com/ZyberZo/zyberzo)
 
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/<js001>/<js001>/master/assets/thm_propic.png)
  
 
 
