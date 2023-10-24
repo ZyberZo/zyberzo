@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jibril! <br/><a href="https://github.com/zyberzo">IT enthusiast </a>, <a href="https://www.linkedin.com/in/jibrilsowe/">Cybersecurity Student</a></h1>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>👨‍💻 My Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/ZyberZo/zyberzo)
   
