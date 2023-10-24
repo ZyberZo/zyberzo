@@ -2,17 +2,16 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/zyberzo)
-  - <b>PowerShell</b>
-  - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/zyberzo)
+  - [Active Directory Home Lab](https://github.com/ZyberZo/zyberzo)
+  
  
 
 <h2>🌱 I'm currently learning:</h2>
   - <b>Azure, Defender 365 and Sentinel</b>
   - <b>Google Cloud</b>
   - <b>AWS</b>
+
+  <h2>📃Certifications</h2>
  
 
 
