@@ -7,13 +7,13 @@
  
 
 <h2>🌱 I'm currently learning:</h2>
-  - <b>Azure, Defender 365 and Sentinel</b>
-  - <b>Google Cloud</b>
-  - <b>AWS</b>
-
-  <h2>📃Certifications</h2>
  
+  - [Azure, Defender 365 and Sentinel, Google Cloud, AWS](https://github.com/ZyberZo/zyberzo)
 
+<h2>📃Certifications</h2>
+
+  - [Coming](https://github.com/ZyberZo/zyberzo)
+ 
 
 
 <h2> 🤳 Connect with me:</h2>
