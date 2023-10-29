@@ -13,7 +13,7 @@
  
   - [Azure, Defender 365 and Sentinel](https://github.com/ZyberZo/zyberzo)
 
-<h2>📃Certifications</h2>
+<h2>📃Python Projects</h2>
 
   - [Coming](https://github.com/ZyberZo/zyberzo)
 
