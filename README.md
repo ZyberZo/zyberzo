@@ -5,7 +5,7 @@
 
   - [Microsoft Azure Sentinel monitoring failed RDP logins](https://github.com/ZyberZo/azurerdpsentinel)
   - [Setting up a Active Directory(EntraID) lab and breaching it](https://github.com/ZyberZo/adbreach)
-  - [Penetration test(Vulnerability assessment)](https://github.com/ZyberZo/vulnassess)
+  - [Penetration test(Vulnerability assessment)](https://github.com/ZyberZo/vuln-assess)
   
  
 
