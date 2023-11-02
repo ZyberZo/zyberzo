@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Microsoft Azure Sentinel monitoring failed RDP logins](https://github.com/ZyberZo/azurerdpsentinel)
-  - [Setting up a Active Directory(EntraID) lab and breaching it](https://github.com/ZyberZo/adbreach)
+  - [Setting up a Active Directory(EntraID) enviroment and attacking it](https://github.com/ZyberZo/vulnad)
   - [Penetration test(Vulnerability assessment report)](https://github.com/ZyberZo/vuln-assess)
 
  
