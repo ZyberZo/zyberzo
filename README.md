@@ -1,4 +1,6 @@
-<h1>Hi, I'm Jibril! <br/> <a href="https://github.com/zyberzo">IT enthusiast </a>, <a href="https://www.linkedin.com/in/jibril-sowe-ab505b207/">Cybersecurity Student</a><br><br><a><img src="https://tryhackme-badges.s3.amazonaws.com/js001.png"</a></h1>
+<h1>Hi, I'm Jibril! <br/> <a href="https://github.com/zyberzo">IT enthusiast </a>, <a href="https://www.linkedin.com/in/jibril-sowe-ab505b207/">Cybersecurity Student</a><br><br><a><img src="<img src="https://tryhackme-badges.s3.amazonaws.com/js001.png" alt="TryHackMe">"</a></h1>
+
+
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
